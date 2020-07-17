@@ -8,7 +8,7 @@
         "url": "https://github.com/zone117x/node-cryptonote-pool.git"
     },
     "dependencies": {
-        "bignum": "0.12.5",
+        "bignum": "0.13.0",
         "async": "1.5.2",
         "redis": "0.12.1",
         "cli-color": "1.1.0",
